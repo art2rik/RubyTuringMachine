@@ -1,0 +1,4 @@
+ |  q0   | q1    |    q2  |  q3  |   q4  |   q5  |  q6    |   q7
+a| q1,a,R|q3,a, R|  q2,a,R|q3,a,R| q4,a,R|       |        | q7,#,L
+b| q2,b,R|q1,b, R| q4, b,R|q3,b,R| q4,a,R|       |        | q7,#,L
+#|q7,#,L |q7,#,L | q7,#,L |q5,#,R| q6,#,R|END,a,R|END,b,R | END,#,N

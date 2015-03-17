@@ -1,0 +1,5 @@
+  |   q0  |  q1
+ a| q1,a,R| q0,a,R
+ b| q1,b,R| q0,a,R
+ c| q1,c,R| q0,a,R
+ #|END,#,N| END,#,N
